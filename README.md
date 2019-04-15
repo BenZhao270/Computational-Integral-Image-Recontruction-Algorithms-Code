@@ -6,7 +6,7 @@ If you plan to use this code for your project or work then please don't forget t
 publications to cite:
 ==========================
 
-VCR(Volumetric computational reconstruction):
+VCR(Volumetric Computational Reconstruction):
 ==============================================
 1. S.-H. Hong, J.-S. Jang, and B. Javidi, "Three-dimensional volumetric object reconstruction using computational integral imaging," Opt. Express 12, 483-491 (2004)
 
